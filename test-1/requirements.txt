@@ -1,0 +1,5 @@
+entrypoints==0.3
+Flask==1.1.2
+Flask-Cors==3.0.8
+idna==2.10
+itsdangerous==1.1.0
