@@ -59,6 +59,11 @@ Each module will be analyzed independently as `monorepo-<folder-name>` in FOSSA.
 
 No residual `.fossa.yml` files will be left behind—each is removed after the scan.
 
+## Example FOSSA UI results
+
+<img width="312" alt="image" src="https://github.com/user-attachments/assets/3030d011-ad96-4952-921e-86890e67d244" />
+
+
 ## 📄 License
 
 MIT
